@@ -1,0 +1,11 @@
+{
+  "read_order": "left_to_right",
+  "allow_empty": true,
+  "filter_keywords": "请示,公告,结果,公示",
+  "key_file": "C:/Users/97477/Desktop/测试/招标采购PDF提取工具/key_names_example.txt",
+  "last_folder": "C:/Users/97477/Desktop/测试/软件及代码打包/3.20250226批量文件重命名与 PDF 转换工具 测试文件 - 副本",
+  "last_save_folder": "C:/Users/97477/Desktop",
+  "window_position": null,
+  "window_size": null,
+  "project_mode": "same"
+}
